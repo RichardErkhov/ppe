@@ -6,5 +6,6 @@ to compile you need to open compile.py and put the name of the file (main.py or 
 ## requirements
 pyinstaller
 
-#for secure 
+## for secure 
+
 pyaescrypt
